@@ -53,9 +53,9 @@ biliad10=type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/x\/resource\
 #～BiliBili_哔哩哔哩_我的页面处理@ddgksf2013
 biliad11=type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/bilibili_json.js
 #～BiliBili_哔哩哔哩_Proto去广告@app2smile
-biliad12=type=http-response,pattern=^https:\/\/app\.bilibili\.com\/bilibili\.app\.(view\.v1\.View\/View|dynamic\.v2\.Dynamic\/DynAll)$,requires-body=1,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-proto.js
+#biliad12=type=http-response,pattern=^https:\/\/app\.bilibili\.com\/bilibili\.app\.(view\.v1\.View\/View|dynamic\.v2\.Dynamic\/DynAll)$,requires-body=1,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-proto.js
 #～BiliBili_哔哩哔哩_动态广告@yjqiang
-biliad13=type=http-response,pattern=^https://app\.bilibili\.com/bilibili\.app\.dynamic\.v2\.Dynamic/DynAll$,requires-body=1,script-path=https://raw.githubusercontent.com/yjqiang/surge_scripts/main/scripts/bilibili/bilibili_dynamic.js
+#biliad13=type=http-response,pattern=^https://app\.bilibili\.com/bilibili\.app\.dynamic\.v2\.Dynamic/DynAll$,requires-body=1,script-path=https://raw.githubusercontent.com/yjqiang/surge_scripts/main/scripts/bilibili/bilibili_dynamic.js
 
 [MITM]
 hostname= %APPEND% app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
