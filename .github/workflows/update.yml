@@ -1,9 +1,13 @@
-name: Auto Update IPTV List (Randomized)
+name: Auto Update IPTV (Smart Schedule)
 
 on:
   schedule:
-    # 每 30 分钟唤醒一次 (00:00, 00:30, 01:00...)
-    - cron: '*/30 * * * *'
+    # 这里的 Cron 含义：
+    # 分钟: 0 (整点)
+    # 小时: 0,3,6,9,12 (UTC时间)
+    # 对应北京时间: 08:00, 11:00, 14:00, 17:00, 20:00
+    # 这样就完美避开了 22:00 - 07:00 这个时间段
+    - cron: '0 0,3,6,9,12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,23 +18,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 检出代码 (注意：fetch-depth: 0 是必须的，为了获取 git 历史时间)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. 安装环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install cloudscraper requests
+        run: pip install cloudscraper requests
 
-      # 3. 执行“智能随机”逻辑
       - name: Smart Update Check
         env:
           IPTV_URL: ${{ secrets.IPTV_URL }}
@@ -42,49 +42,59 @@ jobs:
           import time
           import random
           import subprocess
+          from datetime import datetime, timezone, timedelta
 
-          # === 核心配置 ===
+          # === 核心配置修改 ===
           FILE_NAME = 'list.m3u'
-          MIN_INTERVAL = 3600   # 最少间隔 1 小时 (3600秒)
-          MAX_INTERVAL = 7200   # 强制间隔 2 小时 (7200秒)
+          
+          # 3小时 = 10800 秒
+          MIN_INTERVAL = 10800   
+          
+          # 6小时 = 21600 秒
+          MAX_INTERVAL = 21600   
           
           def get_last_commit_time(filename):
               try:
-                  # 使用 git log 获取文件最后一次修改的时间戳
                   result = subprocess.check_output(['git', 'log', '-1', '--format=%ct', filename])
                   return int(result.strip())
               except:
-                  return 0 # 如果文件不存在或没有提交记录，返回0
+                  return 0
 
-          # 1. 获取时间差
+          # 打印当前北京时间，方便看日志
+          tz_bj = timezone(timedelta(hours=8))
+          now_bj = datetime.now(tz_bj)
+          print(f'Current Beijing Time: {now_bj.strftime(\'%Y-%m-%d %H:%M:%S\')}')
+
           last_time = get_last_commit_time(FILE_NAME)
           current_time = int(time.time())
           time_diff = current_time - last_time
+          hours_ago = time_diff / 3600
           
-          print(f'Last update was {time_diff / 60:.1f} minutes ago.')
+          print(f'Last update was {hours_ago:.2f} hours ago.')
 
-          # 2. 随机决策逻辑
           should_run = False
           
           if time_diff < MIN_INTERVAL:
-              print('>>> Too soon. Skipping update to avoid detection.')
-              sys.exit(0) # 直接成功退出，不报错
+              # 如果小于3小时 (理论上 Cron 不会触发这种情况，除非你手动点了运行)
+              print(f'>>> Too soon (< 3h). Skipping.')
+              sys.exit(0)
               
           elif time_diff > MAX_INTERVAL:
-              print('>>> It has been too long. Forcing update now.')
+              # 超过6小时（包括每天早上的第一次运行）-> 强制更新
+              print(f'>>> Over 6 hours ({hours_ago:.2f}h). Forcing update.')
               should_run = True
               
           else:
-              # 在 1-2 小时之间，只有 50% 的概率运行
-              # 结合 cron 每 30 分钟一次，这会产生随机分布
+              # 介于 3 - 6 小时之间
+              # 抛硬币：50% 概率更新，50% 概率不更
               if random.choice([True, False]):
-                  print('>>> Random dice roll: SUCCESS. Updating now.')
+                  print('>>> Random check (3h-6h): SUCCESS. Updating now.')
                   should_run = True
               else:
-                  print('>>> Random dice roll: SKIP. Waiting for next cycle.')
+                  print('>>> Random check (3h-6h): SKIP. Waiting for next cycle.')
                   sys.exit(0)
 
-          # 3. 如果通过了上面的检查，开始下载 (CloudScraper)
+          # === 下载逻辑 ===
           if should_run:
               url = os.environ.get('IPTV_URL')
               if not url:
@@ -92,10 +102,11 @@ jobs:
                   sys.exit(1)
 
               try:
-                  print('Starting download...')
-                  # 稍微随机睡眠几秒到1分钟，进一步打乱秒级特征
-                  time.sleep(random.randint(5, 60))
-                  
+                  # 随机延迟 5秒 - 3分钟，避免整点特征
+                  sleep_time = random.randint(5, 180)
+                  print(f'Sleeping for {sleep_time} seconds...')
+                  time.sleep(sleep_time)
+
                   scraper = cloudscraper.create_scraper(browser='chrome')
                   response = scraper.get(url)
                   
@@ -105,8 +116,7 @@ jobs:
                               f.write(response.text)
                           print('Success: File downloaded.')
                       else:
-                          print('Warning: Content does not look like M3U. Aborting save.')
-                          # 这里也可以选择 sys.exit(1) 来报错，或者仅仅跳过
+                          print('Warning: Content does not look like M3U.')
                   else:
                       print(f'Error: Status code {response.status_code}')
                       sys.exit(1)
@@ -115,7 +125,6 @@ jobs:
                   sys.exit(1)
           "
 
-      # 4. 提交并推送
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
@@ -123,13 +132,10 @@ jobs:
           
           if [ -f list.m3u ]; then
             git add list.m3u
-            
-            # 再次检查是否有实质内容变更
             if git diff --staged --quiet; then
               echo "Content unchanged. Skipping commit."
               exit 0
             fi
-            
-            git commit -m "Randomized Update: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           fi
