@@ -2,7 +2,7 @@ name: Auto Update IPTV (Smart Schedule)
 
 on:
   schedule:
-    # 0,3,6,9,12 (UTC) = 北京时间 08, 11, 14, 17, 20 点
+    # 北京时间 08, 11, 14, 17, 20 点
     - cron: '0 0,3,6,9,12 * * *'
   workflow_dispatch:
 
@@ -46,13 +46,20 @@ jobs:
           MAX_INTERVAL = 21600   # 6小时
           
           def get_last_commit_time(filename):
+              # 修复点：先检查文件是否存在
+              if not os.path.exists(filename):
+                  print(f'File {filename} not found locally. Assuming first run.')
+                  return 0
+              
               try:
+                  # 只有文件存在时，才去查询 git 日志
                   result = subprocess.check_output(['git', 'log', '-1', '--format=%ct', filename])
                   return int(result.strip())
-              except:
+              except Exception as e:
+                  print(f'Git log failed (safe to ignore on first run): {e}')
                   return 0
 
-          # === 修复点：先把时间转成字符串，再打印，避开 f-string 反斜杠限制 ===
+          # 打印北京时间
           tz_bj = timezone(timedelta(hours=8))
           now_bj = datetime.now(tz_bj)
           now_str = now_bj.strftime('%Y-%m-%d %H:%M:%S')
@@ -67,14 +74,15 @@ jobs:
 
           should_run = False
           
-          if time_diff < MIN_INTERVAL:
+          if last_time == 0:
+              print('>>> First run or file missing. Forcing update.')
+              should_run = True
+          elif time_diff < MIN_INTERVAL:
               print(f'>>> Too soon (< 3h). Skipping.')
               sys.exit(0)
-              
           elif time_diff > MAX_INTERVAL:
               print(f'>>> Over 6 hours ({hours_ago:.2f}h). Forcing update.')
               should_run = True
-              
           else:
               # 3-6小时之间，抛硬币
               if random.choice([True, False]):
@@ -91,7 +99,7 @@ jobs:
                   sys.exit(1)
 
               try:
-                  # 随机延迟防止整点特征
+                  # 随机延迟
                   sleep_time = random.randint(5, 180)
                   print(f'Sleeping for {sleep_time} seconds...')
                   time.sleep(sleep_time)
