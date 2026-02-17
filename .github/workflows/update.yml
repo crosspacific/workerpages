@@ -1,34 +1,37 @@
-name: Auto Update IPTV List
+name: Auto Update IPTV List (Randomized)
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # 建议改为每30分钟或1小时，太频繁容易被封IP
+    # 每 30 分钟唤醒一次 (00:00, 00:30, 01:00...)
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  bypass-cloudflare-and-update:
+  smart-random-update:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. 检出代码 (注意：fetch-depth: 0 是必须的，为了获取 git 历史时间)
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # 1. 安装 Python 环境
+      # 2. 安装环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # 2. 安装专门绕过 Cloudflare 的库
       - name: Install dependencies
         run: |
           pip install cloudscraper requests
 
-      # 3. 运行 Python 脚本下载文件
-      - name: Download m3u with Python
+      # 3. 执行“智能随机”逻辑
+      - name: Smart Update Check
         env:
           IPTV_URL: ${{ secrets.IPTV_URL }}
         run: |
@@ -36,34 +39,80 @@ jobs:
           import cloudscraper
           import os
           import sys
+          import time
+          import random
+          import subprocess
 
-          url = os.environ.get('IPTV_URL')
-          if not url:
-              print('Error: Secret IPTV_URL is not set')
-              sys.exit(1)
+          # === 核心配置 ===
+          FILE_NAME = 'list.m3u'
+          MIN_INTERVAL = 3600   # 最少间隔 1 小时 (3600秒)
+          MAX_INTERVAL = 7200   # 强制间隔 2 小时 (7200秒)
+          
+          def get_last_commit_time(filename):
+              try:
+                  # 使用 git log 获取文件最后一次修改的时间戳
+                  result = subprocess.check_output(['git', 'log', '-1', '--format=%ct', filename])
+                  return int(result.strip())
+              except:
+                  return 0 # 如果文件不存在或没有提交记录，返回0
 
-          try:
-              # 创建一个模拟浏览器的 scraper
-              scraper = cloudscraper.create_scraper(browser='chrome')
-              response = scraper.get(url)
+          # 1. 获取时间差
+          last_time = get_last_commit_time(FILE_NAME)
+          current_time = int(time.time())
+          time_diff = current_time - last_time
+          
+          print(f'Last update was {time_diff / 60:.1f} minutes ago.')
+
+          # 2. 随机决策逻辑
+          should_run = False
+          
+          if time_diff < MIN_INTERVAL:
+              print('>>> Too soon. Skipping update to avoid detection.')
+              sys.exit(0) # 直接成功退出，不报错
               
-              # 检查状态码
-              if response.status_code == 200:
-                  # 检查内容是否包含关键标识（比如 #EXTM3U），确保不是HTML报错页面
-                  if '#EXTM3U' in response.text:
-                      with open('list.m3u', 'w', encoding='utf-8') as f:
-                          f.write(response.text)
-                      print('Success: File downloaded and saved.')
-                  else:
-                      print('Warning: Content does not look like an M3U file.')
-                      print('First 100 chars:', response.text[:100])
-                      # 如果依然被拦截，这里会打印出来，方便调试
+          elif time_diff > MAX_INTERVAL:
+              print('>>> It has been too long. Forcing update now.')
+              should_run = True
+              
+          else:
+              # 在 1-2 小时之间，只有 50% 的概率运行
+              # 结合 cron 每 30 分钟一次，这会产生随机分布
+              if random.choice([True, False]):
+                  print('>>> Random dice roll: SUCCESS. Updating now.')
+                  should_run = True
               else:
-                  print(f'Error: Failed with status code {response.status_code}')
+                  print('>>> Random dice roll: SKIP. Waiting for next cycle.')
+                  sys.exit(0)
+
+          # 3. 如果通过了上面的检查，开始下载 (CloudScraper)
+          if should_run:
+              url = os.environ.get('IPTV_URL')
+              if not url:
+                  print('Error: Secret IPTV_URL is not set')
                   sys.exit(1)
-          except Exception as e:
-              print(f'Error: {str(e)}')
-              sys.exit(1)
+
+              try:
+                  print('Starting download...')
+                  # 稍微随机睡眠几秒到1分钟，进一步打乱秒级特征
+                  time.sleep(random.randint(5, 60))
+                  
+                  scraper = cloudscraper.create_scraper(browser='chrome')
+                  response = scraper.get(url)
+                  
+                  if response.status_code == 200:
+                      if '#EXTM3U' in response.text:
+                          with open(FILE_NAME, 'w', encoding='utf-8') as f:
+                              f.write(response.text)
+                          print('Success: File downloaded.')
+                      else:
+                          print('Warning: Content does not look like M3U. Aborting save.')
+                          # 这里也可以选择 sys.exit(1) 来报错，或者仅仅跳过
+                  else:
+                      print(f'Error: Status code {response.status_code}')
+                      sys.exit(1)
+              except Exception as e:
+                  print(f'Error: {str(e)}')
+                  sys.exit(1)
           "
 
       # 4. 提交并推送
@@ -72,18 +121,15 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 只有当 list.m3u 存在时才执行
           if [ -f list.m3u ]; then
             git add list.m3u
             
+            # 再次检查是否有实质内容变更
             if git diff --staged --quiet; then
-              echo "No changes detected."
+              echo "Content unchanged. Skipping commit."
               exit 0
             fi
             
-            git commit -m "Auto update list.m3u via CloudScraper"
+            git commit -m "Randomized Update: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
-          else
-            echo "list.m3u was not generated. Skipping commit."
-            exit 1
           fi
