@@ -2,52 +2,88 @@ name: Auto Update IPTV List
 
 on:
   schedule:
-    # 这里的语法是 Cron 表达式。
-    # "*/10 * * * *" 代表每 10 分钟运行一次
-    - cron: '*/10 * * * *'
-  # 允许手动触发（方便测试）
+    - cron: '*/30 * * * *' # 建议改为每30分钟或1小时，太频繁容易被封IP
   workflow_dispatch:
 
-# 赋予脚本写入仓库的权限
 permissions:
   contents: write
 
 jobs:
-  download-and-commit:
+  bypass-cloudflare-and-update:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 检出代码（把仓库拉取到虚拟环境）
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. 下载文件并重命名
-      - name: Download list.m3u
-        run: |
-          # 使用 curl 下载，-L 跟随跳转，-o 重命名为 list.m3u
-          # 这里使用了你刚才设置的 Secret，非常安全
-          curl -L "${{ secrets.IPTV_URL }}" -o list.m3u
-          
-          # 检查文件是否下载成功（可选）
-          ls -lh list.m3u
+      # 1. 安装 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-      # 3. 提交并推送到仓库
+      # 2. 安装专门绕过 Cloudflare 的库
+      - name: Install dependencies
+        run: |
+          pip install cloudscraper requests
+
+      # 3. 运行 Python 脚本下载文件
+      - name: Download m3u with Python
+        env:
+          IPTV_URL: ${{ secrets.IPTV_URL }}
+        run: |
+          python -c "
+          import cloudscraper
+          import os
+          import sys
+
+          url = os.environ.get('IPTV_URL')
+          if not url:
+              print('Error: Secret IPTV_URL is not set')
+              sys.exit(1)
+
+          try:
+              # 创建一个模拟浏览器的 scraper
+              scraper = cloudscraper.create_scraper(browser='chrome')
+              response = scraper.get(url)
+              
+              # 检查状态码
+              if response.status_code == 200:
+                  # 检查内容是否包含关键标识（比如 #EXTM3U），确保不是HTML报错页面
+                  if '#EXTM3U' in response.text:
+                      with open('list.m3u', 'w', encoding='utf-8') as f:
+                          f.write(response.text)
+                      print('Success: File downloaded and saved.')
+                  else:
+                      print('Warning: Content does not look like an M3U file.')
+                      print('First 100 chars:', response.text[:100])
+                      # 如果依然被拦截，这里会打印出来，方便调试
+              else:
+                  print(f'Error: Failed with status code {response.status_code}')
+                  sys.exit(1)
+          except Exception as e:
+              print(f'Error: {str(e)}')
+              sys.exit(1)
+          "
+
+      # 4. 提交并推送
       - name: Commit and Push
         run: |
-          # 配置 git 身份
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 添加文件
-          git add list.m3u
-          
-          # 检查文件是否有变化
-          # 如果文件内容没变，就不提交，避免产生大量无用的 commit 记录
-          if git diff --staged --quiet; then
-            echo "文件没有变化，跳过提交。"
-            exit 0
+          # 只有当 list.m3u 存在时才执行
+          if [ -f list.m3u ]; then
+            git add list.m3u
+            
+            if git diff --staged --quiet; then
+              echo "No changes detected."
+              exit 0
+            fi
+            
+            git commit -m "Auto update list.m3u via CloudScraper"
+            git push
+          else
+            echo "list.m3u was not generated. Skipping commit."
+            exit 1
           fi
-          
-          # 提交并推送
-          git commit -m "Auto update list.m3u: $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
