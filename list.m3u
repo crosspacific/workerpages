@@ -3,11 +3,11 @@
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=2
-#EXTINF:-1 svg-id="CCTV1综合" svg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=3
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=3
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=4
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=5
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=6
@@ -41,17 +41,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=20
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=21
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV1&line=22
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=2
-#EXTINF:-1 svg-id="CCTV2财经" svg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=3
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=3
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=4
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=5
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=6
@@ -71,8 +69,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=13
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=14
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV2&line=15
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV3&line=1
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3
@@ -97,9 +93,9 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=1
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=2
-#EXTINF:-1 svg-id="CCTV4中文国际" svg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=4
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=5
@@ -117,19 +113,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=11
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=12
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=13
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4&line=14
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=1
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=2
-#EXTINF:-1 svg-id="CCTV5体育" svg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=3
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=3
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=4
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=5
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=6
@@ -151,31 +143,27 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=14
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=15
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5&line=16
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5plus.png" group-title="央视",CCTV5+
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=1
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=2
-#EXTINF:-1 svg-id="CCTV5+体育赛事" svg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=3
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=3
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="央视",CCTV5+
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=4
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="央视",CCTV5+
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="央视",CCTV5+
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=6
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="央视",CCTV5+
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV5%2B&line=7
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=1
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=2
-#EXTINF:-1 svg-id="CCTV6电影" svg-name="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=3
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=3
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=4
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=5
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=6
@@ -199,17 +187,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=15
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=16
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV6&line=17
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=1
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=2
-#EXTINF:-1 svg-id="CCTV7国防军事" svg-name="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=3
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=3
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=4
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=5
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=6
@@ -223,13 +209,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=10
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=11
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV7&line=12
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=1
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=2
-#EXTINF:-1 svg-id="CCTV8电视剧" svg-name="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=3
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=3
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=4
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=5
@@ -253,17 +241,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=14
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=15
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8&line=16
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=1
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=2
-#EXTINF:-1 svg-id="CCTV9纪录" svg-name="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=3
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=3
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=4
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=5
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV9&line=6
@@ -279,11 +265,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=1
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=2
-#EXTINF:-1 svg-id="CCTV10科教" svg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=3
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=3
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=4
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=5
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=6
@@ -297,17 +283,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=10
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=11
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV10&line=12
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=1
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=2
-#EXTINF:-1 svg-id="CCTV11戏曲" svg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=3
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=3
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=4
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=5
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=6
@@ -317,19 +301,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=8
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=9
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=10
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV11&line=11
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=1
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=2
-#EXTINF:-1 svg-id="CCTV12社会与法" svg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=3
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=3
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=4
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=5
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=6
@@ -341,17 +321,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=9
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=10
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV12&line=11
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=1
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=2
-#EXTINF:-1 svg-id="CCTV15音乐" svg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=3
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=3
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=4
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=5
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV15&line=6
@@ -373,11 +351,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=1
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=2
-#EXTINF:-1 svg-id="CCTV17农业农村" svg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=3
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=3
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=4
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=5
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=6
@@ -387,10 +365,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=9
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=10
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV17&line=11
 #EXTINF:-1 tvg-id="ZJTV" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视",浙江卫视
@@ -415,14 +389,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=11
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=12
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=13
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=14
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=15
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=16
 #EXTINF:-1 tvg-id="HNTV" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视",湖南卫视
@@ -439,11 +405,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="东方卫视" svg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视",东方卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=6
@@ -457,11 +423,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视",北京卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="北京卫视" svg-name="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视",北京卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视",北京卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
@@ -471,15 +437,17 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=9
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=10
 #EXTINF:-1 tvg-id="JSTV" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="江苏卫视" svg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=6
@@ -507,6 +475,8 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="HLJTV" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
@@ -517,22 +487,22 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="GDTV" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视",广东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="广东卫视" svg-name="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视",广东卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视",广东卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视",广东卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-id="SZTV" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视",深圳卫视
@@ -543,8 +513,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="卫视",深圳卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="卫视",深圳卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="TJTV" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视",天津卫视
@@ -561,11 +529,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",湖北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="湖北卫视" svg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",湖北卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",湖北卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视",湖北卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=6
@@ -573,11 +541,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视",江西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="江西卫视" svg-name="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视",江西卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视",江西卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视",江西卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=6
@@ -585,8 +553,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=7
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=8
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=9
 #EXTINF:-1 tvg-id="SDTV" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="卫视",山东卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
@@ -601,9 +567,9 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视",河南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="河南卫视" svg-name="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视",河南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视",河南卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=5
@@ -611,24 +577,20 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-id="DNTV" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="东南卫视" svg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视",东南卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-id="GXTV" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视",广西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视",广西卫视
@@ -647,18 +609,18 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫视",四川卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫视",四川卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="CQTV" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视",重庆卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="重庆卫视" svg-name="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视",重庆卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视",重庆卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视",重庆卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=5
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://logo.catvod.com/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",重庆卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=6
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="YNTV" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="卫视",云南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="卫视",云南卫视
@@ -679,31 +641,33 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=6
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=7
 #EXTINF:-1 tvg-id="HNTV" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视",海南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="海南卫视" svg-name="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视",海南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视",海南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视",海南卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=8
 #EXTINF:-1 tvg-id="LNTV" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视",辽宁卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="辽宁卫视" svg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视",辽宁卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视",辽宁卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://logo.catvod.com/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="卫视",辽宁卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://logo.catvod.com/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="卫视",辽宁卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=6
@@ -711,11 +675,11 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视",吉林卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 svg-id="吉林卫视" svg-name="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视",吉林卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视",吉林卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视",吉林卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",吉林卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",吉林卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=6
@@ -729,8 +693,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=10
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",吉林卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=11
-#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",吉林卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=12
 #EXTINF:-1 tvg-id="GSTV" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视",甘肃卫视
@@ -741,6 +703,8 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://logo.catvod.com/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视",甘肃卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=5
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://logo.catvod.com/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视",甘肃卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV13&line=1
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13
@@ -771,13 +735,15 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV13&line=14
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV13&line=15
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV13&line=16
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=1
-#EXTINF:-1 svg-id="CCTV14少儿" svg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=2
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=2
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=4
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=5
@@ -789,129 +755,93 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV14&line=8
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="央视",CCTV4欧洲
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E6%AC%A7%E6%B4%B2&line=1
-#EXTINF:-1 svg-id="CCTV4欧洲" svg-name="CCTV4欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="央视",CCTV4欧洲
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E6%AC%A7%E6%B4%B2&line=2
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="央视",CCTV4欧洲
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E6%AC%A7%E6%B4%B2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E6%AC%A7%E6%B4%B2&line=2
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="央视",CCTV4美洲
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E7%BE%8E%E6%B4%B2&line=1
-#EXTINF:-1 svg-id="CCTV4美洲" svg-name="CCTV4美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="央视",CCTV4美洲
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E7%BE%8E%E6%B4%B2&line=2
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="央视",CCTV4美洲
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E7%BE%8E%E6%B4%B2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4%E7%BE%8E%E6%B4%B2&line=2
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="央视",CGTN外语纪录
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95&line=1
-#EXTINF:-1 svg-id="CGTN外语纪录" svg-name="CGTN外语纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="央视",CGTN外语纪录
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95&line=2
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="央视",CGTN外语纪录
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95&line=2
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/303/202502251557_1740470230464_H32_1080.webp" group-title="央视",CGTN阿拉伯语
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=1
-#EXTINF:-1 svg-id="CGTN阿拉伯语" svg-name="CGTN阿拉伯语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/303/202502251557_1740470230464_H32_1080.webp" group-title="央视",CGTN阿拉伯语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/303/202502251557_1740470230464_H32_1080.webp" group-title="央视",CGTN阿拉伯语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=3
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/337/202502251600_1740470437874_H32_1080.webp" group-title="央视",CGTN西班牙语
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=1
-#EXTINF:-1 svg-id="CGTN西班牙语" svg-name="CGTN西班牙语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/337/202502251600_1740470437874_H32_1080.webp" group-title="央视",CGTN西班牙语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/337/202502251600_1740470437874_H32_1080.webp" group-title="央视",CGTN西班牙语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="央视",CGTN西班牙语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&line=3
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/324/202502251559_1740470371334_H32_1080.webp" group-title="央视",CGTN法语
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=1
-#EXTINF:-1 svg-id="CGTN法语" svg-name="CGTN法语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/324/202502251559_1740470371334_H32_1080.webp" group-title="央视",CGTN法语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/324/202502251559_1740470371334_H32_1080.webp" group-title="央视",CGTN法语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="央视",CGTN法语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E6%B3%95%E8%AF%AD&line=3
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",CGTN俄语
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=1
-#EXTINF:-1 svg-id="CGTN俄语" svg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",CGTN俄语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",CGTN俄语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=2
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="央视",CGTN俄语
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN%E4%BF%84%E8%AF%AD&line=3
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="央视",老故事
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%80%81%E6%95%85%E4%BA%8B&line=1
-#EXTINF:-1 svg-id="老故事" svg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="央视",老故事
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%80%81%E6%95%85%E4%BA%8B&line=2
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="央视",老故事
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%80%81%E6%95%85%E4%BA%8B&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%80%81%E6%95%85%E4%BA%8B&line=2
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="央视",发现之旅
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&line=1
-#EXTINF:-1 svg-id="发现之旅" svg-name="发现之旅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="央视",发现之旅
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&line=2
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="央视",发现之旅
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&line=2
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp" group-title="央视",中学生
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=1
-#EXTINF:-1 svg-id="中学生" svg-name="中学生" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp" group-title="央视",中学生
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=2
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp" group-title="央视",中学生
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=2
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp" group-title="央视",CGTN
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=1
-#EXTINF:-1 svg-id="CGTN" svg-name="CGTN" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp" group-title="央视",CGTN
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=2
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp" group-title="央视",CGTN
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=2
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="央视",CGTN
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CGTN&line=3
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="体育",赛事最经典
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=1
-#EXTINF:-1 svg-id="赛事最经典" svg-name="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="体育",赛事最经典
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=2
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="体育",赛事最经典
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&line=2
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="体育",体坛名栏汇
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&line=1
-#EXTINF:-1 svg-id="体坛名栏汇" svg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="体育",体坛名栏汇
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&line=2
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="体育",体坛名栏汇
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&line=2
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="体育",四海钓鱼
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=1
-#EXTINF:-1 svg-id="四海钓鱼" svg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="体育",四海钓鱼
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=2
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="体育",四海钓鱼
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&line=2
 #EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="体育",陕西体育休闲频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="陕西体育休闲频道" svg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="体育",陕西体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="体育",陕西体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="体育",武术世界
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&line=1
-#EXTINF:-1 svg-id="武术世界" svg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="体育",武术世界
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&line=2
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="体育",武术世界
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&line=2
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/317/202512290851_1766567876635_H32_1080.webp" group-title="体育",快乐垂钓
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=1
-#EXTINF:-1 svg-id="快乐垂钓" svg-name="快乐垂钓" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/317/202512290851_1766567876635_H32_1080.webp" group-title="体育",快乐垂钓
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=2
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/317/202512290851_1766567876635_H32_1080.webp" group-title="体育",快乐垂钓
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台体育休闲频道" tvg-name="辽宁广播电视台体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202512311920_1766735267312_H32_1080.webp" group-title="体育",辽宁广播电视台体育休闲频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="辽宁广播电视台体育休闲频道" svg-name="辽宁广播电视台体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202512311920_1766735267312_H32_1080.webp" group-title="体育",辽宁广播电视台体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台体育休闲频道" tvg-name="辽宁广播电视台体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202512311920_1766735267312_H32_1080.webp" group-title="体育",辽宁广播电视台体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="卫视",河北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="河北卫视" svg-name="河北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="卫视",河北卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="卫视",河北卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视",河北卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=5
@@ -921,326 +851,228 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=7
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=8
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=9
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视",陕西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="陕西卫视" svg-name="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视",陕西卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视",陕西卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="卫视",大湾区卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="大湾区卫视" svg-name="大湾区卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="卫视",大湾区卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="卫视",大湾区卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视",青海卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="青海卫视" svg-name="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视",青海卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视",青海卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="卫视",青海卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=6
-#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视",青海卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=7
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视",海峡卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="海峡卫视" svg-name="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视",海峡卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视",海峡卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="海峡卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="卫视",海峡卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="卫视",中国农林卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="中国农林卫视" svg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="卫视",中国农林卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="卫视",中国农林卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视",兵团卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="兵团卫视" svg-name="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视",兵团卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视",兵团卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视",兵团卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视",宁夏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="宁夏卫视" svg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视",宁夏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视",宁夏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",宁夏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",宁夏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",宁夏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视",三沙卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 svg-id="三沙卫视" svg-name="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视",三沙卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视",三沙卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视",三沙卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视",三沙卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视",三沙卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="地方",上视东方影视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&line=1
-#EXTINF:-1 svg-id="上视东方影视" svg-name="上视东方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="地方",上视东方影视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="地方",上视东方影视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方",上海第一财经
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&line=1
-#EXTINF:-1 svg-id="上海第一财经" svg-name="上海第一财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方",上海第一财经
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&line=2
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方",上海第一财经
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&line=2
 #EXTINF:-1 tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/865/202307121700_1689146730747_H32_1080.webp" group-title="地方",南京教科频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="南京教科频道" svg-name="南京教科频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/865/202307121700_1689146730747_H32_1080.webp" group-title="地方",南京教科频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/865/202307121700_1689146730747_H32_1080.webp" group-title="地方",南京教科频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/864/202307121658_1689146948769_H32_1080.webp" group-title="地方",南京十八频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="南京十八频道" svg-name="南京十八频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/864/202307121658_1689146948769_H32_1080.webp" group-title="地方",南京十八频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/864/202307121658_1689146948769_H32_1080.webp" group-title="地方",南京十八频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="体育休闲频道" tvg-name="体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/554/202104022139_5100186459_H32_1080.webp" group-title="地方",体育休闲频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="体育休闲频道" svg-name="体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/554/202104022139_5100186459_H32_1080.webp" group-title="地方",体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="体育休闲频道" tvg-name="体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/554/202104022139_5100186459_H32_1080.webp" group-title="地方",体育休闲频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方",江苏城市频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="江苏城市频道" svg-name="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方",江苏城市频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方",江苏城市频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方",江苏国际
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=1
-#EXTINF:-1 svg-id="江苏国际" svg-name="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方",江苏国际
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=2
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方",江苏国际
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&line=2
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方",江苏教育
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&line=1
-#EXTINF:-1 svg-id="江苏教育" svg-name="江苏教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方",江苏教育
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&line=2
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方",江苏教育
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&line=2
 #EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方",江苏影视频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="江苏影视频道" svg-name="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方",江苏影视频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方",江苏影视频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/553/202104022139_5100186455_H32_1080.webp" group-title="地方",优漫卡通频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="优漫卡通频道" svg-name="优漫卡通频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/553/202104022139_5100186455_H32_1080.webp" group-title="地方",优漫卡通频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/553/202104022139_5100186455_H32_1080.webp" group-title="地方",优漫卡通频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方",陕西银龄频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="陕西银龄频道" svg-name="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方",陕西银龄频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方",陕西银龄频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方",陕西都市青春频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="陕西都市青春频道" svg-name="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方",陕西都市青春频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方",陕西都市青春频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方",陕西秦腔频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="陕西秦腔频道" svg-name="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方",陕西秦腔频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方",陕西秦腔频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",财富天下
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=1
-#EXTINF:-1 svg-id="财富天下" svg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",财富天下
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=2
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",财富天下
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台公共频道" tvg-name="辽宁广播电视台公共频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202512310910_1766735322616_H32_1080.webp" group-title="地方",辽宁广播电视台公共频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="辽宁广播电视台公共频道" svg-name="辽宁广播电视台公共频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202512310910_1766735322616_H32_1080.webp" group-title="地方",辽宁广播电视台公共频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台公共频道" tvg-name="辽宁广播电视台公共频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202512310910_1766735322616_H32_1080.webp" group-title="地方",辽宁广播电视台公共频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台生活频道" tvg-name="辽宁广播电视台生活频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202512310910_1766735378296_H32_1080.webp" group-title="地方",辽宁广播电视台生活频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="辽宁广播电视台生活频道" svg-name="辽宁广播电视台生活频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202512310910_1766735378296_H32_1080.webp" group-title="地方",辽宁广播电视台生活频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台生活频道" tvg-name="辽宁广播电视台生活频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202512310910_1766735378296_H32_1080.webp" group-title="地方",辽宁广播电视台生活频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台影视剧频道" tvg-name="辽宁广播电视台影视剧频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202512311919_1766735207197_H32_1080.webp" group-title="地方",辽宁广播电视台影视剧频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="辽宁广播电视台影视剧频道" svg-name="辽宁广播电视台影视剧频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202512311919_1766735207197_H32_1080.webp" group-title="地方",辽宁广播电视台影视剧频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="辽宁广播电视台影视剧频道" tvg-name="辽宁广播电视台影视剧频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202512311919_1766735207197_H32_1080.webp" group-title="地方",辽宁广播电视台影视剧频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%BE%BD%E5%AE%81%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%BD%B1%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="宁夏广播电视台文旅频道" tvg-name="宁夏广播电视台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202512311920_1766735094938_H32_1080.webp" group-title="地方",宁夏广播电视台文旅频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%87%E6%97%85%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="宁夏广播电视台文旅频道" svg-name="宁夏广播电视台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202512311920_1766735094938_H32_1080.webp" group-title="地方",宁夏广播电视台文旅频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%87%E6%97%85%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="宁夏广播电视台文旅频道" tvg-name="宁夏广播电视台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202512311920_1766735094938_H32_1080.webp" group-title="地方",宁夏广播电视台文旅频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%87%E6%97%85%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%87%E6%97%85%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="宁夏广播电视台经济频道" tvg-name="宁夏广播电视台经济频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/327/202512311920_1766734845550_H32_1080.webp" group-title="地方",宁夏广播电视台经济频道
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 svg-id="宁夏广播电视台经济频道" svg-name="宁夏广播电视台经济频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/327/202512311920_1766734845550_H32_1080.webp" group-title="地方",宁夏广播电视台经济频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="宁夏广播电视台经济频道" tvg-name="宁夏广播电视台经济频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/327/202512311920_1766734845550_H32_1080.webp" group-title="地方",宁夏广播电视台经济频道
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%81%E5%A4%8F%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93&line=2
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="影视",经典香港电影
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&line=1
-#EXTINF:-1 svg-id="经典香港电影" svg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="影视",经典香港电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="影视",经典香港电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视",抗战经典影片
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&line=1
-#EXTINF:-1 svg-id="抗战经典影片" svg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视",抗战经典影片
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&line=2
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视",抗战经典影片
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&line=2
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="影视",新片放映厅
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&line=1
-#EXTINF:-1 svg-id="新片放映厅" svg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="影视",新片放映厅
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&line=2
 #EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="影视",新片放映厅
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&line=2
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="影视",CHC影迷电影
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=1
-#EXTINF:-1 svg-id="CHC影迷电影" svg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="影视",CHC影迷电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="影视",CHC影迷电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="影视",CHC影迷电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=3
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="影视",CHC动作电影
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=1
-#EXTINF:-1 svg-id="CHC动作电影" svg-name="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="影视",CHC动作电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="影视",CHC动作电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=2
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="影视",CHC动作电影
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=3
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="影视",CHC家庭影院
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=1
-#EXTINF:-1 svg-id="CHC家庭影院" svg-name="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="影视",CHC家庭影院
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=2
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="影视",CHC家庭影院
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=2
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="影视",CHC家庭影院
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=4
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=3
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="影视",和美乡途轮播台
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=1
-#EXTINF:-1 svg-id="和美乡途轮播台" svg-name="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="影视",和美乡途轮播台
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=2
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="影视",和美乡途轮播台
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=2
 #EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="影视",南方影视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&line=1
-#EXTINF:-1 svg-id="南方影视" svg-name="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="影视",南方影视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="影视",南方影视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/150/202407181432_1721283631491_H32_1080.webp" group-title="教育",CETV1
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV1&line=1
-#EXTINF:-1 svg-id="CETV1" svg-name="CETV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/150/202407181432_1721283631491_H32_1080.webp" group-title="教育",CETV1
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV1&line=2
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/150/202407181432_1721283631491_H32_1080.webp" group-title="教育",CETV1
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV1&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV1&line=2
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/152/202407181432_1721283782530_H32_1080.webp" group-title="教育",CETV2
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV2&line=1
-#EXTINF:-1 svg-id="CETV2" svg-name="CETV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/152/202407181432_1721283782530_H32_1080.webp" group-title="教育",CETV2
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV2&line=2
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/152/202407181432_1721283782530_H32_1080.webp" group-title="教育",CETV2
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV2&line=2
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/154/202407181433_1721283870297_H32_1080.webp" group-title="教育",CETV4
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV4&line=1
-#EXTINF:-1 svg-id="CETV4" svg-name="CETV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/154/202407181433_1721283870297_H32_1080.webp" group-title="教育",CETV4
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV4&line=2
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/154/202407181433_1721283870297_H32_1080.webp" group-title="教育",CETV4
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV4&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CETV4&line=2
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="教育",山东教育
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=1
-#EXTINF:-1 svg-id="山东教育" svg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="教育",山东教育
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=2
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="教育",山东教育
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=2
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="少儿",嘉佳卡通
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&line=1
-#EXTINF:-1 svg-id="嘉佳卡通" svg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="少儿",嘉佳卡通
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&line=2
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="少儿",嘉佳卡通
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&line=2
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿",经典动画大集合
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&line=1
-#EXTINF:-1 svg-id="经典动画大集合" svg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿",经典动画大集合
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&line=2
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿",经典动画大集合
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&line=2
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1
-#EXTINF:-1 svg-id="新动漫" svg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=2
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=2
 #EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="纪实",新动力量创一流
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&line=1
-#EXTINF:-1 svg-id="新动力量创一流" svg-name="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="纪实",新动力量创一流
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&line=2
 #EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="纪实",新动力量创一流
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&line=2
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/295/202511061701_1762241728018_H32_1080.webp" group-title="纪实",中华特产
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7&line=1
-#EXTINF:-1 svg-id="中华特产" svg-name="中华特产" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/295/202511061701_1762241728018_H32_1080.webp" group-title="纪实",中华特产
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7&line=2
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/295/202511061701_1762241728018_H32_1080.webp" group-title="纪实",中华特产
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7&line=2
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="纪实",环球旅游
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&line=1
-#EXTINF:-1 svg-id="环球旅游" svg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="纪实",环球旅游
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&line=2
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="纪实",环球旅游
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&line=2
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/320/202512290851_1766567984830_H32_1080.webp" group-title="纪实",茶
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%8C%B6&line=1
-#EXTINF:-1 svg-id="茶" svg-name="茶" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/320/202512290851_1766567984830_H32_1080.webp" group-title="纪实",茶
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%8C%B6&line=2
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/320/202512290851_1766567984830_H32_1080.webp" group-title="纪实",茶
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%8C%B6&line=3
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%8C%B6&line=2
 #EXTINF:-1 tvg-id="CCTV16(4K)" tvg-name="CCTV16(4K)" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",CCTV16(4K)
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV16%284K%29&line=1
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="央视",CCTV4K
@@ -1267,14 +1099,14 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",山西卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",山西卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="卫视",西藏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=4
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="卫视",新疆卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视
@@ -1283,8 +1115,6 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV4K超高清
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV4K超高清
@@ -1293,30 +1123,28 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=3
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV4K超高清
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=4
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV4K超高清
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=5
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-logo="https://logo.catvod.com/CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV8K超高清
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-logo="https://logo.catvod.com/CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视",CCTV8K超高清
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV风云剧场
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=1
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-logo="https://logo.catvod.com/CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV怀旧剧场
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&line=1
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV第一剧场
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&line=1
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV风云剧场
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=1
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="央视",CCTV风云音乐
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&line=1
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视",CCTV风云足球
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&line=1
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-logo="https://logo.catvod.com/CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",CCTV女性时尚
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A&line=1
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-logo="https://logo.catvod.com/CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视",CCTV央视台球
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&line=1
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-logo="https://logo.catvod.com/CCTV%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&line=1
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-logo="https://logo.catvod.com/CCTV%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97&line=2
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-logo="https://logo.catvod.com/CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",CCTV女性时尚
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A&line=1
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视",CCTV高尔夫网球
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=1
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视",CCTV高尔夫网球
@@ -1325,24 +1153,18 @@ https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&line=1
 #EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视",厦门卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视",厦门卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="安多卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86.png" group-title="卫视",安多卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东教育卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东教育卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="卫视",广东体育
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&line=1
-#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="卫视",广东体育
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&line=2
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="卫视",广东珠江
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 #EXTINF:-1 tvg-id="康巴卫视" tvg-logo="https://logo.catvod.com/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" group-title="卫视",康巴卫视
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="康巴卫视" tvg-logo="https://logo.catvod.com/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" group-title="卫视",康巴卫视
-https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://logo.catvod.com/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",延边卫视
+https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 group-title="咪视",咪视界4K
 https://iptv.catvod.com/live.php?token=b5aeb6ec650506202318a546335791453850659f5655ab102f1c4c9966c0ecfc&id=%E5%92%AA%E8%A7%86%E7%95%8C4K&line=1
 #EXTINF:-1 group-title="咪视",至臻视界4K
