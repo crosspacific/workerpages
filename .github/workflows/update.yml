@@ -2,8 +2,9 @@ name: Auto Update IPTV (Smart Schedule)
 
 on:
   schedule:
-    # 北京时间 08, 11, 14, 17, 20 点
-    - cron: '0 0,3,6,9,12 * * *'
+    # 每4小时运行一次 (UTC时间: 0, 4, 8, 12)
+    # 对应北京时间: 08, 12, 16, 20 点
+    - cron: '0 0,4,8,12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -40,23 +41,20 @@ jobs:
           import subprocess
           from datetime import datetime, timezone, timedelta
 
-          # === 核心配置 ===
+          # === 核心配置修改 ===
           FILE_NAME = 'list.m3u'
-          MIN_INTERVAL = 10800   # 3小时
-          MAX_INTERVAL = 21600   # 6小时
+          MIN_INTERVAL = 14400   # 4小时 (4 * 3600)
+          MAX_INTERVAL = 28800   # 8小时 (8 * 3600)
           
           def get_last_commit_time(filename):
-              # 修复点：先检查文件是否存在
               if not os.path.exists(filename):
                   print(f'File {filename} not found locally. Assuming first run.')
                   return 0
-              
               try:
-                  # 只有文件存在时，才去查询 git 日志
                   result = subprocess.check_output(['git', 'log', '-1', '--format=%ct', filename])
                   return int(result.strip())
               except Exception as e:
-                  print(f'Git log failed (safe to ignore on first run): {e}')
+                  print(f'Git log failed: {e}')
                   return 0
 
           # 打印北京时间
@@ -78,18 +76,20 @@ jobs:
               print('>>> First run or file missing. Forcing update.')
               should_run = True
           elif time_diff < MIN_INTERVAL:
-              print(f'>>> Too soon (< 3h). Skipping.')
+              # 小于 4 小时，坚决不更新
+              print(f'>>> Too soon (< 4h). Skipping.')
               sys.exit(0)
           elif time_diff > MAX_INTERVAL:
-              print(f'>>> Over 6 hours ({hours_ago:.2f}h). Forcing update.')
+              # 超过 8 小时，强制更新
+              print(f'>>> Over 8 hours ({hours_ago:.2f}h). Forcing update.')
               should_run = True
           else:
-              # 3-6小时之间，抛硬币
+              # 4-8 小时之间，50% 概率触发更新
               if random.choice([True, False]):
-                  print('>>> Random check (3h-6h): SUCCESS. Updating now.')
+                  print('>>> Random check (4h-8h): SUCCESS. Updating now.')
                   should_run = True
               else:
-                  print('>>> Random check (3h-6h): SKIP. Waiting for next cycle.')
+                  print('>>> Random check (4h-8h): SKIP. Waiting for next cycle.')
                   sys.exit(0)
 
           if should_run:
@@ -99,7 +99,7 @@ jobs:
                   sys.exit(1)
 
               try:
-                  # 随机延迟
+                  # 随机延迟 5-180 秒，模拟人类行为
                   sleep_time = random.randint(5, 180)
                   print(f'Sleeping for {sleep_time} seconds...')
                   time.sleep(sleep_time)
