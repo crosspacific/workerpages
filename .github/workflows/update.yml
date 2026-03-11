@@ -16,12 +16,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        # 升级到 v5 解决 Node.js 20 EOL 警告
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        # 升级到 v5 解决 Node.js 20 EOL 警告
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -41,9 +43,18 @@ jobs:
           import subprocess
           from datetime import datetime, timezone, timedelta
 
+          # === 修复点 3: 提前进行 Secrets 检查 ===
+          url = os.environ.get('IPTV_URL')
+          if not url or url.strip() == '':
+              print('Error: Secret IPTV_URL is not set. Exiting immediately.')
+              sys.exit(1)
+
           # === 核心配置修改 ===
           FILE_NAME = 'list.m3u'
-          MIN_INTERVAL = 14400   # 4小时 (4 * 3600)
+          # === 修复点 2: 临界点容错处理 ===
+          # 原来是 14400 (4小时)。现在改为 13800 (3小时50分钟)
+          # 预留 10 分钟弹性时间，防止 Action 启动耗时或上次运行延迟导致误判
+          MIN_INTERVAL = 13800   
           MAX_INTERVAL = 28800   # 8小时 (8 * 3600)
           
           def get_last_commit_time(filename):
@@ -76,15 +87,15 @@ jobs:
               print('>>> First run or file missing. Forcing update.')
               should_run = True
           elif time_diff < MIN_INTERVAL:
-              # 小于 4 小时，坚决不更新
-              print(f'>>> Too soon (< 4h). Skipping.')
+              # 小于 3小时50分，坚决不更新
+              print(f'>>> Too soon (< 3.8h). Skipping.')
               sys.exit(0)
           elif time_diff > MAX_INTERVAL:
               # 超过 8 小时，强制更新
               print(f'>>> Over 8 hours ({hours_ago:.2f}h). Forcing update.')
               should_run = True
           else:
-              # 4-8 小时之间，50% 概率触发更新
+              # 在有效区间内，50% 概率触发更新
               if random.choice([True, False]):
                   print('>>> Random check (4h-8h): SUCCESS. Updating now.')
                   should_run = True
@@ -93,11 +104,6 @@ jobs:
                   sys.exit(0)
 
           if should_run:
-              url = os.environ.get('IPTV_URL')
-              if not url:
-                  print('Error: Secret IPTV_URL is not set')
-                  sys.exit(1)
-
               try:
                   # 随机延迟 5-180 秒，模拟人类行为
                   sleep_time = random.randint(5, 180)
