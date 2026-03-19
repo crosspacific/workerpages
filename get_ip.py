@@ -8,8 +8,7 @@ TARGET_ROW = 2  # 提取第 2 行的 IP
 # ==========================================
 
 def update_cloudflare_dns(new_ip):
-    """调用 Cloudflare API 更新 DNS 记录"""
-    # 从 GitHub Actions 的环境变量中读取密钥
+    """调用 Cloudflare API 自动创建或更新 DNS 记录"""
     token = os.environ.get("CF_API_TOKEN")
     zone_id = os.environ.get("CF_ZONE_ID")
     record_name = os.environ.get("CF_RECORD_NAME")
@@ -29,35 +28,43 @@ def update_cloudflare_dns(new_ip):
         url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/dns_records?name={record_name}&type=A"
         resp = requests.get(url, headers=headers).json()
         
-        if not resp.get("success") or not resp.get("result"):
-            print(f"[!] 错误：未能在 Cloudflare 找到 {record_name} 的 A 记录。")
-            print("请先登录 Cloudflare 后台，手动为该域名随意添加一条 A 记录（关闭小黄云）作为初始化。")
-            return
-
-        record = resp["result"][0]
-        record_id = record["id"]
-        old_ip = record["content"]
-
-        # 2. 对比 IP 是否发生变化
-        if old_ip == new_ip:
-            print(f"[#] 当前 DNS 记录已经是 {new_ip}，完全一致，无需重复更新。")
-            return
-
-        # 3. 提交更新请求
-        print(f"[*] 发现新 IP！正在将 {record_name} 从 {old_ip} 更改为 {new_ip}...")
-        update_url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/dns_records/{record_id}"
+        # 定义要写入的记录内容
         payload = {
             "type": "A",
             "name": record_name,
             "content": new_ip,
             "ttl": 60,
-            "proxied": False  # 确保小黄云是关闭状态 (DNS Only)
+            "proxied": False  # 确保小黄云是关闭状态
         }
+
+        # 2. 如果记录不存在，则【新建记录】
+        if not resp.get("result"):
+            print(f"[*] 未找到 {record_name} 的现有记录，正在自动创建新记录...")
+            create_url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/dns_records"
+            create_resp = requests.post(create_url, headers=headers, json=payload).json()
+            
+            if create_resp.get("success"):
+                print("[√] 记录创建成功！你的节点现在起飞了！")
+            else:
+                print(f"[x] 创建失败: {create_resp.get('errors')}")
+            return
+
+        # 3. 如果记录存在，则【更新记录】
+        record = resp["result"][0]
+        record_id = record["id"]
+        old_ip = record["content"]
+
+        if old_ip == new_ip:
+            print(f"[#] 当前 DNS 记录已经是 {new_ip}，完全一致，无需重复更新。")
+            return
+
+        print(f"[*] 发现新 IP！正在将 {record_name} 从 {old_ip} 更改为 {new_ip}...")
+        update_url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/dns_records/{record_id}"
         
         update_resp = requests.put(update_url, headers=headers, json=payload).json()
         
         if update_resp.get("success"):
-            print("[√] Cloudflare DNS 记录更新成功！你的节点现在起飞了！")
+            print("[√] Cloudflare DNS 记录更新成功！")
         else:
             print(f"[x] Cloudflare 更新失败: {update_resp.get('errors')}")
 
