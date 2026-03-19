@@ -3,7 +3,7 @@ name: Fetch and Update Cloudflare IP
 on:
   workflow_dispatch: # 允许手动点击运行
   schedule:
-    - cron: '*/20 * * * *' # 每 20 分钟自动执行一次全套流程
+    - cron: '27 */3 * * *'
 
 permissions:
   contents: write
