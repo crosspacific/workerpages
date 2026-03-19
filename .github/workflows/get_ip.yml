@@ -1,0 +1,40 @@
+name: Fetch Cloudflare IP
+
+# 触发条件：允许在 Actions 页面手动点击运行
+on:
+  workflow_dispatch: 
+
+# 赋予 GitHub Actions 读写仓库的权限，以便它可以将 IP.txt 提交并推送到代码库
+permissions:
+  contents: write
+
+jobs:
+  run-playwright-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 检出代码仓库
+      uses: actions/checkout@v3
+
+    - name: 设置 Python 环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 安装 Python 依赖和无头浏览器内核
+      run: |
+        python -m pip install --upgrade pip
+        pip install playwright
+        playwright install chromium
+
+    - name: 运行提取 IP 的脚本
+      run: python get_ip.py
+
+    - name: 提交并推送生成的 IP.txt 到仓库
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add IP.txt
+        # 如果 IP.txt 有变化则提交，没有变化则提示跳过
+        git commit -m "自动提取最新优选 IP" || echo "IP 未发生变化，无需提交"
+        git push
