@@ -1,12 +1,16 @@
 name: Fetch and Update Cloudflare IP
 
 on:
-  workflow_dispatch: # 允许手动点击运行
+  workflow_dispatch: 
   schedule:
-    - cron: '32 */2 * * *'
+    - cron: '27 */2 * * *' 
 
 permissions:
   contents: write
+
+# 在这里添加全局环境变量，告诉 GitHub 强制使用 Node.js 24 运行所有插件
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   run-and-update:
@@ -14,9 +18,11 @@ jobs:
 
     steps:
     - name: 检出代码仓库
-      uses: actions/checkout@v5
+      # 升级到 v4 (支持更先进的 Node 版本)
+      uses: actions/checkout@v4
 
     - name: 设置 Python 环境
+      # 升级到 v5 (这是目前的最新稳定版)
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
@@ -29,7 +35,6 @@ jobs:
 
     - name: 运行提取并更新 DNS
       env:
-        # 将 GitHub Secrets 映射为 Python 可以读取的环境变量
         CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
         CF_RECORD_NAME: ${{ secrets.CF_RECORD_NAME }}
