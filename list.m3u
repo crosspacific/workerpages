@@ -2,49 +2,65 @@
 #EXTINF:-1 group-title="公告",🎁 全部频道进群免费获取
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=1
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=2
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=3
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=4
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=5
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=6
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=7
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 厦门卫视
-https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 厦门卫视
-https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 河南卫视
-https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://logo.catvod.com/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 重庆卫视
-https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="影视",🎁 CHC家庭影院
-https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视界
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E7%95%8C&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视通-20
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-20&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视通-36
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-36&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视通-41
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-41&line=1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=2
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=3
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=4
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=5
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=6
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=7
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=8
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=9
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=10
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=11
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=12
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=13
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=14
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=15
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=16
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=17
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",🎁 CCTV1
+https://iptv.catvod.com/live.php?id=CCTV1&line=18
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",🎁 CCTV16
+https://iptv.catvod.com/live.php?id=CCTV16&line=1
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",🎁 CCTV16
+https://iptv.catvod.com/live.php?id=CCTV16&line=2
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-logo="https://logo.catvod.com/CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",🎁 CCTV女性时尚
+https://iptv.catvod.com/live.php?id=CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A&line=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="影视",🎁 CHC影迷电影
+https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=1
+#EXTINF:-1 group-title="咪视",🎁 至臻视界4K
+https://iptv.catvod.com/live.php?id=%E8%87%B3%E8%87%BB%E8%A7%86%E7%95%8C4K&line=1
+#EXTINF:-1 group-title="咪视",🎁 晴彩青少
+https://iptv.catvod.com/live.php?id=%E6%99%B4%E5%BD%A9%E9%9D%92%E5%B0%91&line=1
+#EXTINF:-1 group-title="咪视",🎁 晴彩竞技
+https://iptv.catvod.com/live.php?id=%E6%99%B4%E5%BD%A9%E7%AB%9E%E6%8A%80&line=1
+#EXTINF:-1 group-title="咪视",🎁 咪视通-16
+https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-16&line=1
+#EXTINF:-1 group-title="咪视",🎁 咪视通-32
+https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-32&line=1
