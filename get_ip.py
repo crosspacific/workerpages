@@ -91,14 +91,18 @@ def fetch_ip_and_save():
 
                     if len(fresh_ips) >= row_num:
                         target_ip = fresh_ips[row_num - 1]
+                        # 先执行 Cloudflare 更新操作
                         update_cloudflare_dns(target_ip, record_name, zone_id)
-                        results.append(f"{record_name} ({row_num}): {target_ip}")
+                        # 【修改点】仅将 IP 加入结果列表，不包含域名信息
+                        results.append(target_ip)
                     else:
                         print(f"数据不足，无法提取第 {row_num} 行。")
 
+                # 将两个 IP 写入文件，每个 IP 占一行
                 if results:
                     with open("IP.txt", "w", encoding="utf-8") as f:
                         f.write("\n".join(results))
+                    print(f"\n[√] 两个优选 IP 已保存至 IP.txt")
             else:
                 print("未匹配到 IP 数据。")
 
