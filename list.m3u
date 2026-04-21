@@ -1,92 +1,13 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 group-title="公告",🎁 全部频道进群免费获取
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=1
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=2
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=3
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=4
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=5
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=6
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=7
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=8
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=9
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=10
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=11
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=12
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=13
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",🎁 CCTV10
-https://iptv.catvod.com/live.php?id=CCTV10&line=14
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",🎁 CGTN俄语
-https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD&line=1
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",🎁 CGTN俄语
-https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD&line=2
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",🎁 CGTN俄语
-https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD&line=3
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",🎁 CGTN俄语
-https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD&line=4
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="央视",🎁 CGTN俄语
-https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD&line=5
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=6
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",🎁 财富天下
-https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=1
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",🎁 财富天下
-https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=2
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",🎁 财富天下
-https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=3
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",🎁 财富天下
-https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=4
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="地方",🎁 财富天下
-https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&line=5
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="其他",🎁 陕西体育休闲频道
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="其他",🎁 陕西体育休闲频道
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="其他",🎁 陕西体育休闲频道
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=3
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="其他",🎁 陕西体育休闲频道
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=4
-#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="其他",🎁 陕西体育休闲频道
-https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=5
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="其他",🎁 山东教育
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=1
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="其他",🎁 山东教育
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=2
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="其他",🎁 山东教育
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=3
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="其他",🎁 山东教育
-https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&line=4
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视",🎁 CCTV第一剧场
-https://iptv.catvod.com/live.php?id=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&line=1
-#EXTINF:-1 group-title="咪视",🎁 晴彩广场舞
-https://iptv.catvod.com/live.php?id=%E6%99%B4%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视通-12
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-12&line=1
-#EXTINF:-1 group-title="咪视",🎁 咪视通-43
-https://iptv.catvod.com/live.php?id=%E5%92%AA%E8%A7%86%E9%80%9A-43&line=1
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.800000,
+1080p_0000.ts
+#EXTINF:3.200000,
+1080p_0001.ts
+#EXTINF:4.800000,
+1080p_0002.ts
+#EXTINF:2.166667,
+1080p_0003.ts
+#EXT-X-ENDLIST
