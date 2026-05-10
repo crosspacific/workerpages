@@ -3,7 +3,7 @@ name: Fetch and Update Cross-Domain IPs
 on:
   workflow_dispatch: 
   schedule:
-    - cron: '27 */3 * * *' 
+    - cron: '27 * * * *' 
 
 permissions:
   contents: write
