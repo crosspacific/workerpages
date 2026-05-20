@@ -6,8 +6,7 @@ import requests
 # ================= 配置区 =================
 # 映射配置：(目标行号, 环境变量里的域名Key, 环境变量里的ZoneID Key)
 CONFIG = [
-    (2, "CF_RECORD_NAME_1", "CF_ZONE_ID_1"), # 第2行 -> 域名1
-    (3, "CF_RECORD_NAME_2", "CF_ZONE_ID_2")  # 第3行 -> 域名2
+    (2, "CF_RECORD_NAME_1", "CF_ZONE_ID_1") # 第2行 -> 域名1
 ]
 # ==========================================
 
